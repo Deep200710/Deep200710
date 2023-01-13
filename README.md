@@ -16,7 +16,7 @@
  
 > **CI / Deployment: Jenkins**
 
-> **Scripting/Languages: Power Shell**
+> **Scripting/Languages: Shell Scripting**
 
 > **Version Control: Git, Github**
 
